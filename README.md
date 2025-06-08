@@ -1,6 +1,4 @@
-Sure! Here’s a clean, professional README.md template tailored for your Sudoku game React app:
 
-````markdown
 # Sudoku Master
 
 A simple and elegant Sudoku game built with React.
